@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **improving animations using GSAP**
 
-- 👨‍💻 All of my projects are available at [My Portfolio(https://malaikaaax.netlify.app/)](My Portfolio(https://malaikaaax.netlify.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio(https://malaikaaax.netlify.app/)]
 
 - 📝 I regularly write articles on [Not yet,but planning to start on medium](Not yet,but planning to start on medium)
 
