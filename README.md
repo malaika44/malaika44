@@ -11,13 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio(https://malaikaaax.netlify.app/)]
 
-- 📝 I regularly write articles on [Not yet,but planning to start on medium](Not yet,but planning to start on medium)
-
+- 📝 I regularly write articles on Not yet,but planning to start on medium
 - 💬 Ask me about **HTML,CSS,javascript,React,Tailwind,and github**
 
 - 📫 How to reach me **linkedin.com/in/malaika-maheen-6b8a43311**
 
-- 📄 Know about my experiences [https://malaikaaax.netlify.app/](https://malaikaaax.netlify.app/)
+- 📄 Know about my experiences https://malaikaaax.netlify.app/
 
 - ⚡ Fun fact **i started coding just for fun-now it,s my full-time passion.**
 
